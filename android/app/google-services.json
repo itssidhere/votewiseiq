@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "796953336754",
+    "project_id": "votewise",
+    "storage_bucket": "votewise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796953336754:android:3a0948ec08ccf7942da2ab",
+        "android_client_info": {
+          "package_name": "com.example.votewise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796953336754-0b3ohi51encvg4192dtt5krqnj8effqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkoqGactGAP8t04646-6kkZIkL-fPQgj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796953336754-0b3ohi51encvg4192dtt5krqnj8effqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "796953336754-fksp3enh5avp7mt28t8vcj9k1o5jt1go.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.votewiseiq"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796953336754:android:b57216199b7581de2da2ab",
+        "android_client_info": {
+          "package_name": "com.example.votewiseiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796953336754-0b3ohi51encvg4192dtt5krqnj8effqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkoqGactGAP8t04646-6kkZIkL-fPQgj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796953336754-0b3ohi51encvg4192dtt5krqnj8effqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "796953336754-fksp3enh5avp7mt28t8vcj9k1o5jt1go.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.votewiseiq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
