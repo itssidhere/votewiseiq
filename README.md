@@ -1,3 +1,11 @@
+
+
+
+
+https://github.com/itssidhere/votewiseiq/assets/16454736/b7e12235-b405-4b83-9544-3287db7acd52
+
+
+
 # Backend can be found in the [backend]/server.py directory.
 
 # The backend is a python script that uses the [flask] framework to serve the [frontend] to the user.
