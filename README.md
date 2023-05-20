@@ -1,5 +1,3 @@
-#Demo 
-
 # Backend can be found in the [backend]/server.py directory.
 
 # The backend is a python script that uses the [flask] framework to serve the [frontend] to the user.
